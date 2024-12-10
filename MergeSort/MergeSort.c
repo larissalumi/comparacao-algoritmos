@@ -76,5 +76,7 @@ int main() {
         tempoMedio /= contExec;
 
         printf("Media: %f\n\n", tempoMedio);
+
+        tempoMedio = 0;
     }
 }
